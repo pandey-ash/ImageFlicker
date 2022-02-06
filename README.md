@@ -1,2 +1,2 @@
 # image-flicker
-It is a game in which, player has to find duplicate image in the required amount of time.
+It's a game in which the player must locate a duplicate image in the allotted time and moves.
